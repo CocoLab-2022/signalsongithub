@@ -1,6 +1,6 @@
  - Initial Slides: UPLOADED 
- - Initial Meeting: 04/14/2022 Experiment
- - Design (Two Experiment Designs):
+ - Initial Meeting: 04/14/2022 
+ - Experiment Design (Two Experiment Designs):
    	 1. Between-subject design: select two populations (adopted, non-adopted), monitoring 2~3 months, collecting all their
    pull-requests, then compare;
    	 2. Within-subject design: select a population, check before vs. after adoption. 
