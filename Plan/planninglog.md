@@ -6,3 +6,7 @@
    	 2. Within-subject design: select a population, check before vs. after adoption. 
  - Problem need resolve for Within-subject design: is there a way to determine when a person starts the activity overview? (may check the events). 
  - Experiment 1 shall be start by May 1st?
+
+Updata on 05/10/2022:
+-Projects have been sampled (list to be added)
+-Agreement achieved on ToDos.
